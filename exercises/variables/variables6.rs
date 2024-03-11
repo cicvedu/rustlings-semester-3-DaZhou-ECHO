@@ -5,7 +5,7 @@
 
 // I AM NOT DONE
 
-static NUMBER = 3;
+const &'static NUMBER = 3;
 fn main() {
     println!("Number {}", NUMBER);
 }
