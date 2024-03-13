@@ -1,3 +1,4 @@
+// I AM NOT DONE
 // arc1.rs
 //
 // In this exercise, we are given a Vec of u32 called "numbers" with values
@@ -19,10 +20,7 @@
 // where the second TODO comment is. Try not to create any copies of the
 // `numbers` Vec!
 //
-// Execute `rustlings hint arc1` or use the `hint` watch subcommand for a hint.
-
-// I AM NOT DONE
-
+// Execute `rustlings hint arc1` or use the `hint` watch subcommand for a hint.
 #![forbid(unused_imports)] // Do not change this, (or the next) line.
 use std::sync::Arc;
 use std::thread;

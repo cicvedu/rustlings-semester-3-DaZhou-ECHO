@@ -1,3 +1,4 @@
+// I AM NOT DONE
 // cow1.rs
 //
 // This exercise explores the Cow, or Clone-On-Write type. Cow is a
@@ -10,10 +11,7 @@
 // Fix the unit tests by checking for Cow::Owned(_) and Cow::Borrowed(_) at the
 // TODO markers.
 //
-// Execute `rustlings hint cow1` or use the `hint` watch subcommand for a hint.
-
-// I AM NOT DONE
-
+// Execute `rustlings hint cow1` or use the `hint` watch subcommand for a hint.
 use std::borrow::Cow;
 
 fn abs_all<'a, 'b>(input: &'a mut Cow<'b, [i32]>) -> &'a mut Cow<'b, [i32]> {

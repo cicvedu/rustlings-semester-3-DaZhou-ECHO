@@ -1,3 +1,4 @@
+// I AM NOT DONE
 // rc1.rs
 //
 // In this exercise, we want to express the concept of multiple owners via the
@@ -8,10 +9,7 @@
 // Make this code compile by using the proper Rc primitives to express that the
 // sun has multiple owners.
 //
-// Execute `rustlings hint rc1` or use the `hint` watch subcommand for a hint.
-
-// I AM NOT DONE
-
+// Execute `rustlings hint rc1` or use the `hint` watch subcommand for a hint.
 use std::rc::Rc;
 
 #[derive(Debug)]
